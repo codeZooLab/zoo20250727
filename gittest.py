@@ -8,7 +8,7 @@ db = pymysql.connect(host='localhost',port=3306,user='root',password='zzl2000102
 cur = db.cursor()
 
 """
-mysql.py
+gittest.py
 pymysql数据库操作流程演示
 """
 # # 数据库操作
