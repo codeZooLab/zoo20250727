@@ -82,5 +82,3 @@ except Exception as e:
     # 如果提交异常则回到提交前的状态
     db.rollback()
     print(e)
-
--- 测试git修改
