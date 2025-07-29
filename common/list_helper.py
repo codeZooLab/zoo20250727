@@ -2,7 +2,6 @@
     列表助手模块
 """
 
-aaaa
 class ListHelper:
     """
         列表助手类
